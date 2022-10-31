@@ -1,0 +1,106 @@
+body{
+    margin: 0 15em;
+}
+.kelas1 {
+    background-color: #F4C6D8;
+    height: 200px;
+    padding-top: 20px;
+    margin: 0;
+}
+img.kelas2 {
+    display: inline-block;
+    width: 200px;
+    float: left;
+}
+p.kelas3 {
+    text-align: center;
+    padding: 3em 8em;
+}
+.font27 {
+    font-size: 2.7em;
+    font-family: Arial;
+}
+.font15 {
+    font-size: 1.5em;
+    font-family: 'Times New Roman';
+}
+img.kelas4 {
+    display: inline-block;
+    width: 110px;
+    float: right;
+}
+.kelasA {
+    background-color: #CF96B4;
+    margin: 0;
+    height: 200px;
+}
+body{
+    margin: 0 15em;
+}
+.kelas5{
+    background-color: #F4C6D8;
+    width: inherit;
+    height: 36em;
+    padding-top: 12px;
+    margin: 0;
+}
+img.Flower{
+    display: block;
+    width: 90px;
+    margin-left: 2%;
+}
+img.blue{
+    display: block;
+    width: 90px;
+    margin-left: 3%;
+}
+img.berry{
+    display: block;
+    width: 90px;
+    margin-left: 5%;
+}
+img.moon{
+    display: block;
+    width: 90px;
+    margin-left: 6%;
+}
+.colom1 {
+    width: 100%;
+    height: 300px;
+    margin: 10px;
+}
+.colom2 {
+    width: 100%;
+    height: 300px;
+    margin: 10px;
+}
+.pos1,.pos2,.pos3,.pos4,.pos5,.pos6,.pos7 {
+    display: inline-block;
+    width: 100px;
+    margin-right: 10px;
+    float: left;
+}
+
+img.purple{
+    display: inline-block;
+    width: 90px;
+    float: left;
+    margin-left: 3%;
+}
+img.yellow{
+    display: inline-block;
+    width: 90px;
+    float: left;
+    margin-left: 5%;
+}
+img.babe{
+    display: inline-block;
+    width: 90px;
+    float: left;
+    margin-left: 6%;
+}
+.callme {
+    background-color: #CF96B4;
+    margin: 0;
+    padding: 0;
+}
